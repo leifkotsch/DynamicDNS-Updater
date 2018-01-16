@@ -1,8 +1,8 @@
 import requests
-import json
-import os
+#import json
+#import os
 
-#DDNS_LIST syntax: [[username,password],[...,...],...] all entrys must be strings
+#DDNS_LIST syntax: [[username,password],[...,...],...]
 
 
 DDNS_LIST = []
